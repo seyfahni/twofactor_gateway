@@ -28,8 +28,8 @@
     "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0",
     "webpack-merge": "^5.1.4"
   }
 }
